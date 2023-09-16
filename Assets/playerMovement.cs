@@ -56,7 +56,6 @@ public class playerMovement : MonoBehaviour
 
 	Animator animator;
 
-
 	// Use this for initialization
 	void Start()
 	{
